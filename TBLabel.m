@@ -11,9 +11,12 @@
 @implementation TBLabel
 
 #pragma mark - initialize
+/**
+ *  initialize
+ */
 - (void)initialize
 {
-    
+
 }
 
 @end
